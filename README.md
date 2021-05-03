@@ -10,16 +10,16 @@
 #### Usage:
 ```
 
-# Clone o repositório
-$ git clone https://github.com/flpfrnc/podcastr.git
+# Clone the rep
+$ git clone https://github.com/flpfrnc/todo-list-react.git
 
-# Acesse a pasta do projeto
-$ cd podcastr
+# Access the project folder
+$ cd todo-list-react
 
-# Instale as dependências
+# Install dependencies
 $ npm install
 
-# Inicie o node.js server
+# Start node.js server
 $ npm start
 
 ```
